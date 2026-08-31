@@ -1017,7 +1017,7 @@ eval("\n\n__webpack_require__(/*! core-js/modules/es.object.define-property.js *
 
 __webpack_require__(/*! C:\Users\13750\Downloads\HBuilderX.5.24.2026081301\HBuilderX\plugins\uniapp-cli\node_modules\webpack-dev-server\client\index.js?http://localhost */"hW9V");
 __webpack_require__(/*! C:\Users\13750\Downloads\HBuilderX.5.24.2026081301\HBuilderX\plugins\uniapp-cli\node_modules\webpack\hot\dev-server.js */"SGBM");
-__webpack_require__(/*! C:\Users\13750\Downloads\HBuilderX.5.24.2026081301\HBuilderX\plugins\uniapp-cli\node_modules\webpack-dev-server\client\index.js?http://192.168.124.9:8080/sockjs-node */"2Cto");
+/* HMR DISABLED */;
 module.exports = __webpack_require__(/*! E:\360MoveData\Users\13750\Documents\HBuilderProjects\砰砰\main.js */"vBly");
 
 
