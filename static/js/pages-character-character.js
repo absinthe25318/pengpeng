@@ -203,7 +203,7 @@ var render = function () {
                       [
                         _c("v-uni-view", {
                           staticClass: "art-img-css",
-                          style: { backgroundImage: "url(" + _vm.artSrc + ")" },
+                          style: { backgroundImage: "url(" + _vm.artSrc + ")", position: "absolute", top: "0", left: "0", width: "100%", height: "100%", backgroundSize: "contain", backgroundPosition: "center center", backgroundRepeat: "no-repeat" },
                         }),
                         _c(
                           "v-uni-view",
@@ -272,7 +272,7 @@ var render = function () {
                   [
                     _c("v-uni-view", {
                       staticClass: "art-img-css",
-                      style: { backgroundImage: "url(" + _vm.artSrc + ")" },
+                      style: { backgroundImage: "url(" + _vm.artSrc + ")", position: "absolute", top: "0", left: "0", width: "100%", height: "100%", backgroundSize: "contain", backgroundPosition: "center center", backgroundRepeat: "no-repeat" },
                     }),
                   ],
                   1
