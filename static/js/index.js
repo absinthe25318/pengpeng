@@ -830,7 +830,7 @@
 /******/
 /******/ 	// script path function
 /******/ 	function jsonpScriptSrc(chunkId) {
-/******/ 		return __webpack_require__.p + "static/js/" + ({"pages-character-character":"pages-character-character","pages-forgot-forgot":"pages-forgot-forgot","pages-index-index":"pages-index-index","pages-login-login":"pages-login-login","pages-register-register":"pages-register-register"}[chunkId]||chunkId) + ".js?v=20260831d"
+/******/ 		return __webpack_require__.p + "static/js/" + ({"pages-character-character":"pages-character-character","pages-forgot-forgot":"pages-forgot-forgot","pages-index-index":"pages-index-index","pages-login-login":"pages-login-login","pages-register-register":"pages-register-register"}[chunkId]||chunkId) + ".js?v=20260831e"
 /******/ 	}
 /******/
 /******/ 	// The require function
@@ -1015,9 +1015,9 @@ eval("\n\n__webpack_require__(/*! core-js/modules/es.object.define-property.js *
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\13750\Downloads\HBuilderX.5.24.2026081301\HBuilderX\plugins\uniapp-cli\node_modules\webpack-dev-server\client\index.js?http://localhost */"hW9V");
-__webpack_require__(/*! C:\Users\13750\Downloads\HBuilderX.5.24.2026081301\HBuilderX\plugins\uniapp-cli\node_modules\webpack\hot\dev-server.js */"SGBM");
-/* HMR DISABLED */;
+/* production: strip dev-server HMR client */
+// __webpack_require__(/*! ... webpack-dev-server/client?http://localhost */"hW9V");
+// __webpack_require__(/*! ... webpack/hot/dev-server.js */"SGBM");
 module.exports = __webpack_require__(/*! E:\360MoveData\Users\13750\Documents\HBuilderProjects\砰砰\main.js */"vBly");
 
 
